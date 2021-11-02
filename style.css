@@ -1,0 +1,35 @@
+#fondo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  background-color: white;
+}
+
+.cabeza {
+  position: relative;
+  margin: 0 auto;
+  margin-top: 50px;
+  height: 300px;
+  width: 300px;
+  border: 30px solid #e41c5f;
+  border-radius: 20%;
+}
+
+.mascara {
+  background-color: #1e1e1e;
+  height: 300px;
+  width: 300px;
+  border: black;
+  border-radius: 10%;
+}
+
+.circulomascara {
+  border:thick solid white;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+
+}
